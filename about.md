@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Colby Baucom and I'm a 2nd year undergraduate at UCLA. I'm a mathematics for teaching major, with a specialization in computing and a minor in LGBTQ studies. I love learning about math, programming, music, and education!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[colby72001@g.ucla.edu](mailto:colby72001@g.ucla.edu)
