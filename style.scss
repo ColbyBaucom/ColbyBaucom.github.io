@@ -72,11 +72,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #8a0303;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #8a0303;
   }
 }
 
@@ -235,7 +235,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #8a0303;
     }
   }
 }
@@ -288,8 +288,8 @@ footer {
 
 .got-help {
   border-radius: 20px;
-  border: 5px solid $baby-blue;
-  background-color: $baby-blue-30;
+  border: 5px solid #8a0303;
+  background-color: #8a0303;
   padding-left: 10px;
   padding-right: 10px;
   margin-top: 10px;
