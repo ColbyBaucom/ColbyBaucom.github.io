@@ -8,6 +8,8 @@ name: PIC 16B - Python with Applications II
 # Short bio or description (displayed in the header)
 description: Colby Baucom
 
+theme: jekyll-theme-persephone
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/ColbyBaucom/ColbyBaucom.github.io/master/images/cat.png
 
@@ -76,6 +78,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-theme-persephone
 
 # Exclude these files from your production _site
 exclude:
