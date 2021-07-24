@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: #2e4053;
+  background: #17202a;
   font-family: 'Lato', sans-serif;
   font-family: 'Lato', sans-serif;
   color: #eCf0f1;
@@ -195,7 +195,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #ecf0f1;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -205,7 +205,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #eCf0f1;
   font-size: 16px;
 
   @include mobile {
