@@ -1,12 +1,12 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+#theme: academic-jekyll-theme
 # Name of your site (displayed in the header)
 name: Colby Baucom
 
 # Short bio or description (displayed in the header)
-description: Mathematics for Teaching '23
+description: math for teaching '22
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/ColbyBaucom/ColbyBaucom.github.io/master/images/profile.jpg
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: PIC16B/ColbyBaucom.github.io # replace with your repo
-  instagram: https://www.instagram.com/strawbari.shortcake/
+  instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
